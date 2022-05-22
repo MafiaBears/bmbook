@@ -14,7 +14,7 @@ Minting has begun! Minting available on the main website: [https://mafiabears.co
 
 ## `What can I do with my MafiaBear?`
 
-MafiaBear are a key way [(but not the only way)](broken-reference/) to earn [$HASH](honeycash.md), the token that drives MafiaBears economy. If you're a MafiaBear holder, you'll automatically earn [$HASH](honeycash.md) that you can claim daily and use for level up or buy some [$BMS](bms.md)
+MafiaBear are a key way [(but not the only way)](usdhash-mint-bonus.md) to earn [$HASH](honeycash.md), the token that drives MafiaBears economy. If you're a MafiaBear holder, you'll automatically earn [$HASH](honeycash.md) that you can claim daily and use for level up or buy some [$BMS](bms.md)
 
 ## `When will reveal be?`
 
