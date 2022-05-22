@@ -1,18 +1,7 @@
+---
+description: Great Honey Depression
+---
 # Lore
-
-# `Great Honey Depression`
-
-# `Table of Contents`
-
-- [Prologue](#prologue)
-- [Story](#story)
-  - [Chapter I](#chapter-i)
-  - [Chapter II](#chapter-ii)
-  - [Chapter III](#chapter-iii)
-  - [Chapter IV](#chapter-iv)
-  - [Chapter V](#chapter-v)
-  - [Chapter VI](#chapter-vi)
-- [Epilogue](#epilogue)
 
 # `Prologue`
 
