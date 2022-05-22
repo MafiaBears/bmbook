@@ -1,3 +1,7 @@
+---
+description: The more you mint, the more $HASH you get
+---
+
 # $HASH mint bonus
 
 The first bear minters have a unique opportunity to receive a $HASH Bonus.\
