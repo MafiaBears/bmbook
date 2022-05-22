@@ -1,8 +1,12 @@
+---
+description: The more you mint, the more $HASH you get
+---
+
 # $HASH mint bonus
 
 The first bear minters have a unique opportunity to receive a $HASH Bonus.\
 \
-Depending on the minted MB at a time, the bonus will change.
+Depending on how many MafiaBears you mint at a time, the bonus will change.
 
 |     Mint     |   Bonus  |
 | :----------: | :------: |

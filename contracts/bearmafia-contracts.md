@@ -1,11 +1,11 @@
 # BearMafia Contracts
 
-## Etherium Contracts
+## Ethereum Contracts
 
 MafiaBears
 
 {% tabs %}
-{% tab title="Adress" %}
+{% tab title="Address" %}
 0x64679B3e8Bad0Badc328DA8669B882ec09FEe87c
 {% endtab %}
 
@@ -17,7 +17,7 @@ MafiaBears
 BearMafiaShares
 
 {% tabs %}
-{% tab title="Adress" %}
+{% tab title="Address" %}
 0x6c8f43e69830B4e9DDF4f0D57C5EDA82e2c3718C
 {% endtab %}
 
@@ -29,7 +29,7 @@ BearMafiaShares
 HoneyCash
 
 {% tabs %}
-{% tab title="Adress" %}
+{% tab title="Address" %}
 0xd093f2634286afbc9D728c63EbC0D69f7D6cfc1a
 {% endtab %}
 

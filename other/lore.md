@@ -1,30 +1,33 @@
+---
+description: Great Honey Depression
+---
+
 # Lore
 
-## Great Honey Depression
+# `Prologue`
 
-#### Prologue
+The Great Honey Depression struck Bear City like lightning, which is located in the very center of the Sugar Continent. In just a few years, the once flourishing city was divided into buzzing, restless, endlessly fussing and conflicting «hives», each of which lived its own life and was suspicious of strangers.
 
-&#x20;     The Great Honey Depression struck Bear City like lightning, which is located in the very center of the Sugar Continent. In just a few years, the once flourishing city was divided into buzzing, restless, endlessly fussing and conflicting «hives», each of which lived its own life and was suspicious of strangers.
+Good-natured and wise bears, whose diligence and patience allowed Bear City to turn from a modest village inhabited by fishermen and beekeepers into a huge metropolis in two centuries, were no longer the owners of the city. A protracted economic crisis brought down the stock markets and ruined the banks, which was a real disaster for Bear City. The ruthless principle of dominoes very soon brought almost all areas of the bear's life to a deplorable state...
 
-&#x20;     Good-natured and wise bears, whose diligence and patience allowed Bear City to turn from a modest village inhabited by fishermen and beekeepers into a huge metropolis in two centuries, were no longer the owners of the city. A protracted economic crisis brought down the stock markets and ruined the banks, which was a real disaster for Bear City. The ruthless principle of dominoes very soon brought almost all areas of the bear's life to a deplorable state...
+Of course, some of the peoples of the planet Cradle had it even worse. Residents of Dinosaur Lands and Mammoth Beach from the Strange Park continent have a lot to say about this. Of course, if extinct species could speak. However, the bears quite sincerely believed that their fate was not much better. In general, dear reader, you undoubtedly already understood the main thing - the life of the citizens of Bear City could no longer be called sweet.
 
-&#x20;     Of course, some of the peoples of the planet Cradle had it even worse. Residents of Dinosaur Lands and Mammoth Beach from the Strange Park continent have a lot to say about this. Of course, if extinct species could speak. However, the bears quite sincerely believed that their fate was not much better. In general, dear reader, you undoubtedly already understood the main thing - the life of the citizens of Bear City could no longer be called sweet.
+Evolution and civilization have long driven bears who love light and space into the narrow labyrinths of city streets, but never before have these streets been so dark, gloomy and dangerous. The crisis changed not only the economic situation of the bears, it broke the mentality, attitude to life, changed tastes, gave rise to anxiety and fear.
 
-&#x20;     Evolution and civilization have long driven bears who love light and space into the narrow labyrinths of city streets, but never before have these streets been so dark, gloomy and dangerous. The crisis changed not only the economic situation of the bears, it broke the mentality, attitude to life, changed tastes, gave rise to anxiety and fear.
+Honest bears, not accustomed to sitting idle, for the first time faced with such phenomena as unemployment and labor exchange, corruption, yellow press, gambling, criminal gangs, loans at crazy interest rates, lack of affordable housing, incredible price increases. But the worst thing is that the favorite product and the main resource of all the bears in the city - honey - were banned! The Bear City authorities introduced a «dry law», which was in the hands of the mafia and the government, but it hurt ordinary citizens. What can I say - even the classical music beloved by all was replaced by raucous and unleashed jazz, under which it is so good to remember happy times at the bar over a glass of raspberry tincture.
 
-&#x20;     Honest bears, not accustomed to sitting idle, for the first time faced with such phenomena as unemployment and labor exchange, corruption, yellow press, gambling, criminal gangs, loans at crazy interest rates, lack of affordable housing, incredible price increases. But the worst thing is that the favorite product and the main resource of all the bears in the city - honey - were banned! The Bear City authorities introduced a «dry law», which was in the hands of the mafia and the government, but it hurt ordinary citizens. What can I say - even the classical music beloved by all was replaced by raucous and unleashed jazz, under which it is so good to remember happy times at the bar over a glass of raspberry tincture.
+Yes, the crisis gave rise to an unprecedented depression that has been going on for ten long years. Bears have learned to live for today. The hope for the return of the «golden honey era» was fading every year, and it already seemed too many that it would always be like this.
 
-&#x20;     Yes, the crisis gave rise to an unprecedented depression that has been going on for ten long years. Bears have learned to live for today. The hope for the return of the «golden honey era» was fading every year, and it already seemed too many that it would always be like this.
+# `Story`
 
-## Story
+## `Chapter I`
+****
 
-#### Chapter I
+On a cold autumn morning, two young bears were walking along the dank streets of Bear City. Maybe it will surprise you a little, but their names were Bear and Bear. This is explained by the fact that the inhabitants of the city suffered from a complete lack of imagination in terms of names. Actually, things were just as sad with nicknames, so they were known to friends and acquaintances as Fatso and Long. Of course, you already guessed that one of them was small and plump, and the other was tall and thin, but both were equally strong and deadly. The pointed caps and white markings on the chest spoke eloquently of their affiliation with the Grizzly gang, one of Bear City's most formidable criminal gangs.
 
-&#x20;     On a cold autumn morning, two young bears were walking along the dank streets of Bear City. Maybe it will surprise you a little, but their names were Bear and Bear. This is explained by the fact that the inhabitants of the city suffered from a complete lack of imagination in terms of names. Actually, things were just as sad with nicknames, so they were known to friends and acquaintances as Fatso and Long. Of course, you already guessed that one of them was small and plump, and the other was tall and thin, but both were equally strong and deadly. The pointed caps and white markings on the chest spoke eloquently of their affiliation with the Grizzly gang, one of Bear City's most formidable criminal gangs.
+Long held several photographs in his paw and adjusted the large revolver in his shoulder holster every second. The Fatso walked quickly, his «Colt» hung from a wide belt. The goal of the bandits stuck out in the center of a small area, like a rotten tooth forgotten by a dentist. The gray building of the Labor Exchange, the abode of despair and deceived hopes, could not accommodate everyone – unemployed hard-working bears, their shaggy muzzles downcast, stood in a long line right in the rain. Almost everyone was silent and smoking gloomily. Occasionally there was an indistinct rustle of turning pages of a wet newspaper or a hoarse cough.
 
-&#x20;     Long held several photographs in his paw and adjusted the large revolver in his shoulder holster every second. The Fatso walked quickly, his «Colt» hung from a wide belt. The goal of the bandits stuck out in the center of a small area, like a rotten tooth forgotten by a dentist. The gray building of the Labor Exchange, the abode of despair and deceived hopes, could not accommodate everyone – unemployed hard-working bears, their shaggy muzzles downcast, stood in a long line right in the rain. Almost everyone was silent and smoking gloomily. Occasionally there was an indistinct rustle of turning pages of a wet newspaper or a hoarse cough.
-
-&#x20;     When there were a few steps left before the turn, Fatso lightly nudged his colleague with his elbow:
+When there were a few steps left before the turn, Fatso lightly nudged his colleague with his elbow:
 
 \- My brother, - he croaked in a low bass, - soon he will also be here.
 
@@ -34,25 +37,25 @@ Long frowned:
 
 \- That's it, - the fat bear confirmed, - the same one. Moss Inc. is a firm called. Almost everyone was thrown out, and those who remained work for pennies. Well, and my brother too - under staff reduction. Six months already with his wife without cones sit. He never learned to hoard. But there were good times! Now what? Whoever has the cones left can try to buy government bonds, my wife and I did just that…and now we are sitting and thinking - did lost our money or not? Our state will not miss its own.
 
-&#x20;     At that moment, Long walked up to the queue and, turning some hard worker towards him, compared his gloomy face with one of the photographs. The elderly Bear-Gardener showed yellow broken fangs, but when he saw who was in front of him, he lowered his muzzle. With the guys from the Grizzly gang, no one wanted to come into conflict.
+At that moment, Long walked up to the queue and, turning some hard worker towards him, compared his gloomy face with one of the photographs. The elderly Bear-Gardener showed yellow broken fangs, but when he saw who was in front of him, he lowered his muzzle. With the guys from the Grizzly gang, no one wanted to come into conflict.
 
-&#x20;     Moving further along the queue, the bandits continued their unhurried conversation, turning other bears around like silent scarecrows. The line got even quieter.
+Moving further along the queue, the bandits continued their unhurried conversation, turning other bears around like silent scarecrows. The line got even quieter.
 
 \- My brother wanted to join our organization, - Fatso wheezed, - but they did not take him. He is weak, unreliable, not fit for business. The simplest work cannot be assigned. Yes, and he didn’t really want to…a taiga humanist!
 
 \- Bad luck, - the colleague sympathized, peering intently into the muzzle of another unemployed bear and comparing it with photographs. – But my father, when they didn’t even think about the crisis, began to invest cones in honey. It seems stupid to save honey in Bear City, but look how it turned out! Now for a drop of honey you can exchange so many products - everything will not fit into the trunk of a «Ford»! Even if you buy on the market with their biting prices…
 
-&#x20;     The fat bear did not answer right away - he looked angrily at the little red Postman-Bear, who did not immediately look away. The postman lowered his head, the satisfied gangster couple moved on.
+The fat bear did not answer right away - he looked angrily at the little red Postman-Bear, who did not immediately look away. The postman lowered his head, the satisfied gangster couple moved on.
 
 \- Of course, in the market to buy, where else? Fatso grinned. - Stores are empty. Oh, I don't know what will happen to my brother, by God. He poked himself into the trade union; he thought they would help him there. Help, yes! The Brown Bears rule there. A little something is wrong - all cones and honey will be taken away to the last drop, if found. You will also be glad that you didn’t become a rug by the fireplace.
 
 \- Brown bears, - Long shrugged his shoulders, - will not stand on ceremony.
 
-&#x20;     The bandits finally found their prey. In vain, a grizzly named Fisherbear in an impossibly greasy jacket carefully turned his muzzle to the side - Long, after consulting the photograph, put his paw on his shoulder and led him out of the queue, which still maintained respectful silence. Worthy representatives of the Grizzly gang led Fisherbear around the corner, but before getting down to business, the fat bandit decided to end the conversation with a long-prepared tirade:
+The bandits finally found their prey. In vain, a grizzly named Fisherbear in an impossibly greasy jacket carefully turned his muzzle to the side - Long, after consulting the photograph, put his paw on his shoulder and led him out of the queue, which still maintained respectful silence. Worthy representatives of the Grizzly gang led Fisherbear around the corner, but before getting down to business, the fat bandit decided to end the conversation with a long-prepared tirade:
 
 \- In general, survive as you want, no one will pull you by the withers - that's what I told my brother. Intercontinental corporations go bankrupt, stocks collapse, open a newspaper - all obituaries of suicides, just horror. Depression!
 
-&#x20;     Long, during the closing speech of his partner, did not waste time - he carefully examined the guy in a greasy jacket, and he obviously did not feel too comfortable - his black eyes were running, and his head seemed to just grow into his shoulders.
+Long, during the closing speech of his partner, did not waste time - he carefully examined the guy in a greasy jacket, and he obviously did not feel too comfortable - his black eyes were running, and his head seemed to just grow into his shoulders.
 
 \- Heard? These are difficult times; it is a pity that many do not realize this. Here you are, for example! - He pointed at the victim's chest. - You owe Godfather Grizzly a bunch of bumps, but you don’t do anything!
 
@@ -60,24 +63,24 @@ Categorically refuting this statement, the shabby Fisherbear scratched himself a
 
 \- So what to do with you, Teddy? Or what's your name?
 
-&#x20;     Such an obvious insult as «Teddy» would not be taken down by any self-respecting bear, but Fisherbear has long lost the remnants of self-respect. He just shrugged his stooped shoulders, and then suddenly began to speak loudly:
+Such an obvious insult as «Teddy» would not be taken down by any self-respecting bear, but Fisherbear has long lost the remnants of self-respect. He just shrugged his stooped shoulders, and then suddenly began to speak loudly:
 
 \- So after all - beavers! Sure thing - backwater, so no! Dams, carps - honey! And then the shares went down, I went to the beavers - they are already in Canada! What to do? I'm at the labor market. I respect Godfather Grizzly a lot, I don’t like beavers anymore…
 
-&#x20;     Fatso grimaced, and then suddenly deftly searched the Teddy's pockets with practiced quick movements. After this manipulation, three pitiful cones lay on his huge paw, one smaller than the other.
+Fatso grimaced, and then suddenly deftly searched the Teddy's pockets with practiced quick movements. After this manipulation, three pitiful cones lay on his huge paw, one smaller than the other.
 
 \- Three fir cones? Long said skeptically. - Is that all you have left of your brilliant beaver, dam, and carp operation? Canada, Teddy? What the hell – Canada?! There is no such place in the world! Have you decided to find a job through the labor exchange? And how many years were you going to work hard for pennies to earn 50,000 cones? Bears don't even live that long in a Zoo, Teddy! I don't understand what you are trying to achieve with your stories?
 
 \- He probably wants us to slip Godfather Grizzly his story about beavers from fairyland instead of cones, - Fatso suggested, - I guess he takes our boss for a blissful idiot, and thinks that the cones fall into his pocket straight from the sky!
 
-#### Chapter II
+## `Chapter II`
+****
 
-&#x20;     In the next few minutes, Fisherbear would have had a very bad time, the fat Bear in the most unambiguous way took him by the withers and slightly lifted him off the ground, and Long was already preparing to strike, but then fate intervened in the matter. Something really fell from the sky. Those weren't cones! Just a couple of meters from our heroes, a massive body of an adult bear collapsed onto the asphalt.
+In the next few minutes, Fisherbear would have had a very bad time, the fat Bear in the most unambiguous way took him by the withers and slightly lifted him off the ground, and Long was already preparing to strike, but then fate intervened in the matter. Something really fell from the sky. Those weren't cones! Just a couple of meters from our heroes, a massive body of an adult bear collapsed onto the asphalt.
 
-&#x20;     Screams, screeching, stomping, blood-stained white shirt of the dead man... Fisherbear ran away with all his might, but the gangsters had no time for him - they looked at the dead bear. They were frightened, but professionalism gradually overcame other emotions - Long raised his head and determined that the body most likely fell from the twentieth floor. The window there was wide open, which in such bad weather and constant smog was unreasonable. Above the squalid little rooms of the Labor Exchange were offices that only prosperous businessmen, lawyers, brokers and insurers could rent. It was from such an office that the bear fell out, saving with its spectacular appearance the dirty skin of the unlucky friend of the beavers.
+Screams, screeching, stomping, blood-stained white shirt of the dead man... Fisherbear ran away with all his might, but the gangsters had no time for him - they looked at the dead bear. They were frightened, but professionalism gradually overcame other emotions - Long raised his head and determined that the body most likely fell from the twentieth floor. The window there was wide open, which in such bad weather and constant smog was unreasonable. Above the squalid little rooms of the Labor Exchange were offices that only prosperous businessmen, lawyers, brokers and insurers could rent. It was from such an office that the bear fell out, saving with its spectacular appearance the dirty skin of the unlucky friend of the beavers.
 
-&#x20;     A whirlpool of passions was already boiling around - a small crowd had gathered at the scene of the incident, bear muzzles protruded from the windows, screams and patter of paws became louder, as did hysterical calls to urgently call the police and a doctor. The fat bear winced.
-
+A whirlpool of passions was already boiling around - a small crowd had gathered at the scene of the incident, bear muzzles protruded from the windows, screams and patter of paws became louder, as did hysterical calls to urgently call the police and a doctor. The fat bear winced.
 
 
 \- Why in such cases there are always idiots yelling at the top of their lungs that a bear that has fallen from the twentieth floor urgently needs a doctor?
@@ -85,15 +88,14 @@ Categorically refuting this statement, the shabby Fisherbear scratched himself a
 \- Inertia of thinking, - Long explained to him, - Although, on the other hand, it would be very strange if someone started shouting now: «Hurry, call the undertaker, every second is precious»! Fatso chuckled and shrugged. Without saying a word, the bandits left the crowd and stopped a few meters from the epicenter of the incident. Everything they needed, they found out, and it was completely unnecessary to attract too much attention to them.
 
 
-
-&#x20;     The deceased was a grizzly bear - large, middle-aged and very rich. This could be seen from the broken gold watch and diamond cufflinks. The Bear and the Bear knew perfectly well who this unfortunate man was. They did not leave - they were waiting for the real police to find out anything else - in this situation, any information was worth its weight in honey. In the meantime, only a young constable was spinning near the body, giving stupid instructions to the doctor of the «ambulance» and trying to hold back the onslaught of the crowd. But the guys from the Grizzly gang had no doubt that the incident would definitely force the chief of the city police to get his fat ass out of his comfortable chair. \
-&#x20;     The gangsters were not mistaken - in a few minutes; the Old Polar himself appeared at the Labor Exchange building, a huge polar bear, whose hair has long acquired a gray tint due to a wrong lifestyle. He arrived not alone, but with his team, which quickly put things in order - the crowd was dispersed and pushed back a few meters, the experts began to examine the body, the operatives interviewed witnesses and pulled on wide orange ribbons. The constable went to his crossroads and Fatso and Long reacted to the appearance of the big bosses in their own way - they took off their pointed caps and hid their weapons. At the same time, they did their best to get as close to the scene as possible without being noticed.
+The deceased was a grizzly bear - large, middle-aged and very rich. This could be seen from the broken gold watch and diamond cufflinks. The Bear and the Bear knew perfectly well who this unfortunate man was. They did not leave - they were waiting for the real police to find out anything else - in this situation, any information was worth its weight in honey. In the meantime, only a young constable was spinning near the body, giving stupid instructions to the doctor of the «ambulance» and trying to hold back the onslaught of the crowd. But the guys from the Grizzly gang had no doubt that the incident would definitely force the chief of the city police to get his fat ass out of his comfortable chair. \
+The gangsters were not mistaken - in a few minutes; the Old Polar himself appeared at the Labor Exchange building, a huge polar bear, whose hair has long acquired a gray tint due to a wrong lifestyle. He arrived not alone, but with his team, which quickly put things in order - the crowd was dispersed and pushed back a few meters, the experts began to examine the body, the operatives interviewed witnesses and pulled on wide orange ribbons. The constable went to his crossroads and Fatso and Long reacted to the appearance of the big bosses in their own way - they took off their pointed caps and hid their weapons. At the same time, they did their best to get as close to the scene as possible without being noticed.
 
 \- It remains only to wait for her, - said Fatso quietly.&#x20;
 
-&#x20;     His partner gave a short nod in response. \
-&#x20;     «She» arrived at the scene just five minutes after Old Polar - Artemis Ginger, a small sharp-nosed she-bear, beautiful, smart and sly. These are the qualities that a top reporter for the Bear News Time, the city's most widely read newspaper, should have. \
-&#x20;     Artemis pushed the crowd aside and headed straight for the dead body. The chief of police, depicting a semblance of a smile on his ferocious muzzle, warmly welcomed the intruder.
+His partner gave a short nod in response. \
+«She» arrived at the scene just five minutes after Old Polar - Artemis Ginger, a small sharp-nosed she-bear, beautiful, smart and sly. These are the qualities that a top reporter for the Bear News Time, the city's most widely read newspaper, should have. \
+Artemis pushed the crowd aside and headed straight for the dead body. The chief of police, depicting a semblance of a smile on his ferocious muzzle, warmly welcomed the intruder.
 
 \- Hey Tony! - The reporter shouted to the photographer accompanying her, completely ignoring the greeting of the Old Polar. - Get a couple of good shots before the body is taken away. The chief of police did not utter a word, although his black eyes flickered for a moment with a desperate desire to claw his fangs at the throat of this little bitch. His patience was explained simply - the Mayor of Bear City loved to appear on the front page of the most popular newspaper. His vanity made Miss Ginger one of the most powerful people in the city, with a particularly sharp-nosed Artemis interested in police activities.
 
@@ -115,10 +117,9 @@ Categorically refuting this statement, the shabby Fisherbear scratched himself a
 
 \- By the way, - Artemis inquired innocently, as if she had not heard his tirade, - did you find his daughter? They say she was kidnapped by the Pandas when Uncle's business went really bad...                    &#x20;
 
-&#x20;     The guys from the Grizzly gang carefully left the crowd and ran to their car, parked right on the sidewalk. The received information should be delivered to the addressee as quickly as possible.
+The guys from the Grizzly gang carefully left the crowd and ran to their car, parked right on the sidewalk. The received information should be delivered to the addressee as quickly as possible.
 
-#### **Chapter III**
-
+## `Chapter III`
 ****
 
 &#x20;   Godfather Grizzly's office was on the third floor of the old mansion. His looked out the window, behind which was the largest park in the city, carefully preserving the true look of autumn. Fatso and Long froze at the boss's huge desk, not daring to break the silence with a single sound.\
@@ -160,8 +161,7 @@ Godfather Grizzly sank heavily into his chair. Fatso and Long were waiting - the
 
 \- She arrived!
 
-#### **Chapter IV**
-
+## `Chapter IV`
 ****
 
 &#x20;   Artemis Ginger parked her Fiat behind cool car, slammed the door, and headed for the Honey Palace entrance. Her expensive open evening gown contrasted sharply with her more than modest means of transportation. Miss Ginger was moving so fast that the bandits did not even have time to get out of the car.
@@ -251,8 +251,7 @@ Artemis waited patiently for them to breathe, shrugged her shoulders, and opened
 
 \- Nope, - Artemis said nonchalantly, - he’ll find something to do. As far as I know, he is a regular customer of «Honey Palace».
 
-#### **Chapter V**
-
+## `Chapter V`
 ****
 
 &#x20;   The «Rolls-Royce», snatching space from the dark streets with the bright light of its headlights, was speeding rapidly towards the Southeast. Two bears and a female bear inside the car physically felt the tension growing as they approached the goal. Of course, there were no reasons for relaxation. Especially after Artemis told her partners that all her sources independently indicated one place of detention for Ellie Grizzly - Dirty Louie's establishment. Louis-Theodore Fossett, a large koala with matted fur of indeterminate color, fully corresponded to his nickname - both from a physical and moral point of view. Louis's place had a bad reputation, but still not as bad as its owner. Dirty Louis was tied up on the fact that he carried out small, but dirty errands for the southern and southeastern groups of Pandas. He was not shy about cooperating even with such scumbags as Marmalade. Ellie was in the clutches of a notorious scumbag, but that wasn't the worst thing.
@@ -345,7 +344,8 @@ Dirty Louis groaned and covered his eyes with his paws, and Long whistled admiri
 
 \- I don't know about Long, - whispered Miss Ginger, looking into Dirty Louie's dilated pupils of pain, fear and rage as he wiped snot and blood on the sleeves of his dirty jacket. - But I will definitely take advantage of your invitation. So it's better for you, marsupial monkey, to collect your belongings and get out of the city - and as soon as possible!
 
-#### **Chapter VI**
+## `Chapter VI`
+****
 
 The night was moonlit. I wonder how many novels began with this boring line for everyone, how many chapters were spoiled by this terrible stamp? But what the hell do you order the author to do if the light rain stopped, the clouds dispersed, a warm breeze blew, and the night suddenly became warm and… moonlit like in summer?!
 
@@ -423,7 +423,7 @@ Long did not waste energy on compliments - he drove quickly and with concentrati
 
 \- I’d rather have something to drink, - said the Fat Man without opening his eyes, - I hope Einstein will let me drain a bottle of beer before he kills me for his wheelbarrow.
 
-#### **Epilogue**
+# `Epilogue`
 
 The Mayor's office was as chic as its owner, a handsome black grizzly bear. A huge oak table, portraits of kings and presidents on the walls, numerous photographs of the Mayor himself and his relatives, flags, coats of arms, newspaper articles in glazed frames, heavy crystal ashtrays, golden pens and inkwells. The office was flooded with the autumn sun, penetrating here through two huge windows. The end of the most cloudy and depressing time of the year turned out to be extremely warm and sunny.
 
@@ -533,4 +533,4 @@ Artemis did not give up:
 
 When the door closed behind the reporter, the Mayor smiled quite sincerely. Let small, but a victory! Taking out a notepad and colored pencils hidden there from the bottom drawer of the desk, the head of a huge city enthusiastically indulged in his favorite hobby - drawing. On the first sheet, he depicted the head of a dead bear with a protruding tongue and crosses instead of eyes. Above the terrible head, the artist painstakingly drew the inscription: «Meeting of the Suicide Club». Very pleased with himself, the Mayor turned the page and began to sketch the main team members and secondary characters...
 
-## **The End**
+# `The End`

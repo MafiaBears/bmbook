@@ -6,7 +6,7 @@ description: >-
 
 # Welcome to Bear City library
 
-![](.gitbook/assets/the-Pogonya.png)
+![](.gitbook/assets/bearmafia_the_pagonya.png)
 
 ### What Is MafiaBearsPedia?
 

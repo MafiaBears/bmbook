@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Welcome to Bear City library](README.md)
+* [Welcome to Bear City Library](README.md)
 
 ## MafiaBears
 
