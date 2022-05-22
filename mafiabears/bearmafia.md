@@ -4,13 +4,13 @@ description: Real gangsters
 
 # MafiaBears
 
-![](../.gitbook/assets/the-Pogonya.png)
+![](../.gitbook/assets/bearmafia_the_pagonya.png)
 
-MafiaBears is a collection of 9568 bears NFTs - unique digital colletibles living on the etherium blockchain. Each bear gives you a passive income of [$HASH](honeycash.md) depending on its level. Future areas and perks can be unlocked by the community through roadmap activation.
+MafiaBears is a collection of 9568 bears NFTs - unique digital colletibles living on the Ethereum blockchain. Each bear gives you a passive income of [$HASH](honeycash.md) depending on its level. Future areas and perks can be unlocked by the community through roadmap activation.
 
 ## How do I get a MafiaBear?
 
-Minting will start soon, follow it in our social networks
+Minting has begun! Minting available on the main website: [https://mafiabears.com/#/]
 
 ## What can I do with my MafiaBear?
 
@@ -19,7 +19,7 @@ MafiaBear are a key way [(but not the only way)](broken-reference) to earn [$HAS
 ## When will be reveal?
 
 Known Bear faces are top secret for now due to BCPD operation in progress. \
-By rumors this operation should be finished before June 20, 2022.\
+By rumors, this operation should be finished before June 20, 2022.\
 Or when all MafiaBears are found (sold out)
 
-![prerevealed NFT](<../.gitbook/assets/preveal 1.png>)
+![prerevealed NFT](<../.gitbook/assets/bearmafia_pre_reveal.png>)
