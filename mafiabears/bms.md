@@ -4,7 +4,7 @@ description: For real shareholders
 
 # BearMafiaShares
 
-![](../.gitbook/assets/polar.png)
+![](../.gitbook/assets/bms_polar.png)
 
 ## What is $BMS?
 
@@ -15,6 +15,7 @@ Owners of BMS tokens will receive:
 
 * 20% of MB mint revenues as dividends
 * 100% of secondary market royalties as dividends
+* Weekly distributions
 * Voting power (TBD)
 
 ## How to become a stakeholder?
