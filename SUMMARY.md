@@ -1,8 +1,8 @@
 # Table of contents
 
-* [Welcome to Bear City library](README.md)
+* [Welcome to Bear City Library](README.md)
 
-# `MafiaBears`
+## MafiaBears
 
 * [MafiaBears](mafiabears/bearmafia.md)
 * [Assets](mafiabears/assets.md)
@@ -13,10 +13,10 @@
 * [BearMafiaShares](mafiabears/bms.md)
 * [Leveling](mafiabears/leveling.md)
 
-# `Other`
+## Other
 
 * [Lore](other/lore.md)
 
-# `Contracts`
+## Contracts
 
 * [BearMafia Contracts](contracts/bearmafia-contracts.md)
