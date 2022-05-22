@@ -20,6 +20,6 @@ MafiaBear are a key way [(but not the only way)](usdhash-mint-bonus.md) to earn 
 
 Known Bear faces are top secret for now due to BCPD operation in progress.\
 By rumors, this operation should be finished before June 20, 2022.\
-Or when all MafiaBears are found (sold out)
+Or when all MafiaBears are found [(sold out)](https://mafiabears.com/#/)
 
 ![prerevealed NFT](../.gitbook/assets/bearmafia\_pre\_reveal.png)
