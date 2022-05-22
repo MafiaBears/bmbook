@@ -4,7 +4,7 @@ description: The most important thing in the mafia is respect for elders
 
 # Leveling
 
-## What are the levels for?
+# `What are the levels for?`
 
 The level is not only your status in the world of MafiaBears, but also an indicator of how much you earn. The higher your level, the more you earn, but each time the cost to level up is more expensive.
 
