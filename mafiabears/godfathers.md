@@ -1,3 +1,7 @@
+---
+description: Can you make it to Godfather status?
+---
+
 # Godfathers
 
 ![](../.gitbook/assets/godfathers_bears.png)
