@@ -3,7 +3,7 @@ description: Great Honey Depression
 ---
 # Lore
 
-# `Prologue`
+## `Prologue`
 
 &#x20;     The Great Honey Depression struck Bear City like lightning, which is located in the very center of the Sugar Continent. In just a few years, the once flourishing city was divided into buzzing, restless, endlessly fussing and conflicting «hives», each of which lived its own life and was suspicious of strangers.
 
@@ -17,9 +17,9 @@ description: Great Honey Depression
 
 &#x20;     Yes, the crisis gave rise to an unprecedented depression that has been going on for ten long years. Bears have learned to live for today. The hope for the return of the «golden honey era» was fading every year, and it already seemed too many that it would always be like this.
 
-# `Story`
+## `Story`
 
-## `Chapter I`
+### `Chapter I`
 ****
 
 &#x20;     On a cold autumn morning, two young bears were walking along the dank streets of Bear City. Maybe it will surprise you a little, but their names were Bear and Bear. This is explained by the fact that the inhabitants of the city suffered from a complete lack of imagination in terms of names. Actually, things were just as sad with nicknames, so they were known to friends and acquaintances as Fatso and Long. Of course, you already guessed that one of them was small and plump, and the other was tall and thin, but both were equally strong and deadly. The pointed caps and white markings on the chest spoke eloquently of their affiliation with the Grizzly gang, one of Bear City's most formidable criminal gangs.
@@ -72,7 +72,7 @@ Categorically refuting this statement, the shabby Fisherbear scratched himself a
 
 \- He probably wants us to slip Godfather Grizzly his story about beavers from fairyland instead of cones, - Fatso suggested, - I guess he takes our boss for a blissful idiot, and thinks that the cones fall into his pocket straight from the sky!
 
-## `Chapter II`
+### `Chapter II`
 ****
 
 &#x20;     In the next few minutes, Fisherbear would have had a very bad time, the fat Bear in the most unambiguous way took him by the withers and slightly lifted him off the ground, and Long was already preparing to strike, but then fate intervened in the matter. Something really fell from the sky. Those weren't cones! Just a couple of meters from our heroes, a massive body of an adult bear collapsed onto the asphalt.
@@ -118,7 +118,7 @@ Categorically refuting this statement, the shabby Fisherbear scratched himself a
 
 &#x20;     The guys from the Grizzly gang carefully left the crowd and ran to their car, parked right on the sidewalk. The received information should be delivered to the addressee as quickly as possible.
 
-## `Chapter III`
+### `Chapter III`
 ****
 
 &#x20;   Godfather Grizzly's office was on the third floor of the old mansion. His looked out the window, behind which was the largest park in the city, carefully preserving the true look of autumn. Fatso and Long froze at the boss's huge desk, not daring to break the silence with a single sound.\
@@ -160,7 +160,7 @@ Godfather Grizzly sank heavily into his chair. Fatso and Long were waiting - the
 
 \- She arrived!
 
-## `Chapter IV`
+### `Chapter IV`
 ****
 
 &#x20;   Artemis Ginger parked her Fiat behind cool car, slammed the door, and headed for the Honey Palace entrance. Her expensive open evening gown contrasted sharply with her more than modest means of transportation. Miss Ginger was moving so fast that the bandits did not even have time to get out of the car.
@@ -250,7 +250,7 @@ Artemis waited patiently for them to breathe, shrugged her shoulders, and opened
 
 \- Nope, - Artemis said nonchalantly, - he’ll find something to do. As far as I know, he is a regular customer of «Honey Palace».
 
-## `Chapter V`
+### `Chapter V`
 ****
 
 &#x20;   The «Rolls-Royce», snatching space from the dark streets with the bright light of its headlights, was speeding rapidly towards the Southeast. Two bears and a female bear inside the car physically felt the tension growing as they approached the goal. Of course, there were no reasons for relaxation. Especially after Artemis told her partners that all her sources independently indicated one place of detention for Ellie Grizzly - Dirty Louie's establishment. Louis-Theodore Fossett, a large koala with matted fur of indeterminate color, fully corresponded to his nickname - both from a physical and moral point of view. Louis's place had a bad reputation, but still not as bad as its owner. Dirty Louis was tied up on the fact that he carried out small, but dirty errands for the southern and southeastern groups of Pandas. He was not shy about cooperating even with such scumbags as Marmalade. Ellie was in the clutches of a notorious scumbag, but that wasn't the worst thing.
@@ -343,7 +343,7 @@ Dirty Louis groaned and covered his eyes with his paws, and Long whistled admiri
 
 \- I don't know about Long, - whispered Miss Ginger, looking into Dirty Louie's dilated pupils of pain, fear and rage as he wiped snot and blood on the sleeves of his dirty jacket. - But I will definitely take advantage of your invitation. So it's better for you, marsupial monkey, to collect your belongings and get out of the city - and as soon as possible!
 
-## `Chapter VI`
+### `Chapter VI`
 ****
 
 The night was moonlit. I wonder how many novels began with this boring line for everyone, how many chapters were spoiled by this terrible stamp? But what the hell do you order the author to do if the light rain stopped, the clouds dispersed, a warm breeze blew, and the night suddenly became warm and… moonlit like in summer?!
@@ -422,7 +422,7 @@ Long did not waste energy on compliments - he drove quickly and with concentrati
 
 \- I’d rather have something to drink, - said the Fat Man without opening his eyes, - I hope Einstein will let me drain a bottle of beer before he kills me for his wheelbarrow.
 
-# `Epilogue`
+## `Epilogue`
 
 The Mayor's office was as chic as its owner, a handsome black grizzly bear. A huge oak table, portraits of kings and presidents on the walls, numerous photographs of the Mayor himself and his relatives, flags, coats of arms, newspaper articles in glazed frames, heavy crystal ashtrays, golden pens and inkwells. The office was flooded with the autumn sun, penetrating here through two huge windows. The end of the most cloudy and depressing time of the year turned out to be extremely warm and sunny.
 
