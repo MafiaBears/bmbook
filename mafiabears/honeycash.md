@@ -8,7 +8,7 @@ description: Bears love honey... and MafiaBears love $HASH!
 
 $HASH is a token that enhances interactivity within the MafiaBears gamified ecosystem, and ultimately provides more utility to users within MafiaBears. What does that mean, exactly? By giving users ways to earn and spend $HASH, we're able to give them more things to do! Put another way, $HASH reinforces our gamified economy, and a healthy economy is what will allow us to grow and add more and more cool stuff to MafiaBears.
 
-$HASH exists as an ERC20 token on Ethereum; it`s claimable/earnable within the world of MafiaBears.
+$HASH exists as an ERC20 token on Ethereum; it\`s claimable/earnable within the world of MafiaBears.
 
 ## `What can I do with $HASH?`
 
@@ -22,16 +22,16 @@ There are a number of ways right now to earn $HASH. If you're a MafiaBear holder
 
 1. Visit [https://mafiabears.com](https://mafiabears.com/#/).
 2. Connect your wallet (e.g. Metamask).
-3. In the "MY GANG" section click 'Claim HASH' to claim the $MILK for all of the MafiaBears you currently hold.
+3. In the "MY GANG" section click 'Claim HASH' to claim the $HASH for all of the MafiaBears you currently hold.
 
 The amount of HoneyCash you will receive depends on the number of your bears and their level.\
-The more bears and the higher their level, the more HoneyCash you get.  Keep in mind that `claim` function is executed implicitly when you change the MafiaBear roster.\
+The more bears and the higher their level, the more HoneyCash you get. Keep in mind that `claim` function is executed implicitly when you change the MafiaBear roster.\
 \
 Another way to earn $HASH is to buy it on sites such as Uniswap, Pancakeswap, etc.
 
 ## `How much $HASH does my MafiaBear earn?`
 
-MafiaBears earn a base rate of 14.3 $HASH each day, with incremental $HASH bonuses based on their level. As we add additional features to MafiaBears, other tier-related benefits will be distributed throughout the ecosystem, so keep an eye out for more $HASH-earning opportunities in the coming months.&#x20;
+MafiaBears earn a base rate of 14.3 $HASH each day, with incremental $HASH bonuses based on their level. As we add additional features to MafiaBears, other tier-related benefits will be distributed throughout the ecosystem, so keep an eye out for more $HASH-earning opportunities in the coming months.
 
 | Level | Level Up Price | Honey Per 24h | Total Price | Honey Per 24h |   |
 | ----- | -------------- | ------------- | ----------- | ------------- | - |
