@@ -22,7 +22,7 @@ There are a number of ways right now to earn $HASH. If you're a MafiaBear holder
 
 1. Visit [https://mafiabears.com](https://mafiabears.com/#/).
 2. Connect your wallet (e.g. Metamask).
-3. In the "MY GANG" section click 'Claim HASH' to claim the $MILK for all of the MafiaBears you currently hold.
+3. In the "MY GANG" section click 'Claim HASH' to claim the $HASH for all of the MafiaBears you currently hold.
 
 The amount of HoneyCash you will receive depends on the number of your bears and their level.\
 The more bears and the higher their level, the more HoneyCash you get.  Keep in mind that `claim` function is executed implicitly when you change the MafiaBear roster.\
