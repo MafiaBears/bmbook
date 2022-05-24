@@ -15,6 +15,7 @@
 
 ## Other
 
+* [Rarity Ranking](other/rarity-ranking.md)
 * [Lore](other/lore.md)
 
 ## Contracts
