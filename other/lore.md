@@ -4,7 +4,7 @@ description: Great Honey Depression
 
 # Lore
 
-# `Prologue`
+## `Prologue`
 
 The Great Honey Depression struck Bear City like lightning, which is located in the very center of the Sugar Continent. In just a few years, the once flourishing city was divided into buzzing, restless, endlessly fussing and conflicting «hives», each of which lived its own life and was suspicious of strangers.
 
@@ -18,10 +18,11 @@ Honest bears, not accustomed to sitting idle, for the first time faced with such
 
 Yes, the crisis gave rise to an unprecedented depression that has been going on for ten long years. Bears have learned to live for today. The hope for the return of the «golden honey era» was fading every year, and it already seemed too many that it would always be like this.
 
-# `Story`
+## `Story`
 
-## `Chapter I`
-****
+### `Chapter I`
+
+***
 
 On a cold autumn morning, two young bears were walking along the dank streets of Bear City. Maybe it will surprise you a little, but their names were Bear and Bear. This is explained by the fact that the inhabitants of the city suffered from a complete lack of imagination in terms of names. Actually, things were just as sad with nicknames, so they were known to friends and acquaintances as Fatso and Long. Of course, you already guessed that one of them was small and plump, and the other was tall and thin, but both were equally strong and deadly. The pointed caps and white markings on the chest spoke eloquently of their affiliation with the Grizzly gang, one of Bear City's most formidable criminal gangs.
 
@@ -73,8 +74,9 @@ Fatso grimaced, and then suddenly deftly searched the Teddy's pockets with pract
 
 \- He probably wants us to slip Godfather Grizzly his story about beavers from fairyland instead of cones, - Fatso suggested, - I guess he takes our boss for a blissful idiot, and thinks that the cones fall into his pocket straight from the sky!
 
-## `Chapter II`
-****
+### `Chapter II`
+
+***
 
 In the next few minutes, Fisherbear would have had a very bad time, the fat Bear in the most unambiguous way took him by the withers and slightly lifted him off the ground, and Long was already preparing to strike, but then fate intervened in the matter. Something really fell from the sky. Those weren't cones! Just a couple of meters from our heroes, a massive body of an adult bear collapsed onto the asphalt.
 
@@ -82,19 +84,17 @@ Screams, screeching, stomping, blood-stained white shirt of the dead man... Fish
 
 A whirlpool of passions was already boiling around - a small crowd had gathered at the scene of the incident, bear muzzles protruded from the windows, screams and patter of paws became louder, as did hysterical calls to urgently call the police and a doctor. The fat bear winced.
 
-
 \- Why in such cases there are always idiots yelling at the top of their lungs that a bear that has fallen from the twentieth floor urgently needs a doctor?
 
 \- Inertia of thinking, - Long explained to him, - Although, on the other hand, it would be very strange if someone started shouting now: «Hurry, call the undertaker, every second is precious»! Fatso chuckled and shrugged. Without saying a word, the bandits left the crowd and stopped a few meters from the epicenter of the incident. Everything they needed, they found out, and it was completely unnecessary to attract too much attention to them.
 
-
-The deceased was a grizzly bear - large, middle-aged and very rich. This could be seen from the broken gold watch and diamond cufflinks. The Bear and the Bear knew perfectly well who this unfortunate man was. They did not leave - they were waiting for the real police to find out anything else - in this situation, any information was worth its weight in honey. In the meantime, only a young constable was spinning near the body, giving stupid instructions to the doctor of the «ambulance» and trying to hold back the onslaught of the crowd. But the guys from the Grizzly gang had no doubt that the incident would definitely force the chief of the city police to get his fat ass out of his comfortable chair. \
+The deceased was a grizzly bear - large, middle-aged and very rich. This could be seen from the broken gold watch and diamond cufflinks. The Bear and the Bear knew perfectly well who this unfortunate man was. They did not leave - they were waiting for the real police to find out anything else - in this situation, any information was worth its weight in honey. In the meantime, only a young constable was spinning near the body, giving stupid instructions to the doctor of the «ambulance» and trying to hold back the onslaught of the crowd. But the guys from the Grizzly gang had no doubt that the incident would definitely force the chief of the city police to get his fat ass out of his comfortable chair.\
 The gangsters were not mistaken - in a few minutes; the Old Polar himself appeared at the Labor Exchange building, a huge polar bear, whose hair has long acquired a gray tint due to a wrong lifestyle. He arrived not alone, but with his team, which quickly put things in order - the crowd was dispersed and pushed back a few meters, the experts began to examine the body, the operatives interviewed witnesses and pulled on wide orange ribbons. The constable went to his crossroads and Fatso and Long reacted to the appearance of the big bosses in their own way - they took off their pointed caps and hid their weapons. At the same time, they did their best to get as close to the scene as possible without being noticed.
 
-\- It remains only to wait for her, - said Fatso quietly.&#x20;
+\- It remains only to wait for her, - said Fatso quietly.
 
-His partner gave a short nod in response. \
-«She» arrived at the scene just five minutes after Old Polar - Artemis Ginger, a small sharp-nosed she-bear, beautiful, smart and sly. These are the qualities that a top reporter for the Bear News Time, the city's most widely read newspaper, should have. \
+His partner gave a short nod in response.\
+«She» arrived at the scene just five minutes after Old Polar - Artemis Ginger, a small sharp-nosed she-bear, beautiful, smart and sly. These are the qualities that a top reporter for the Bear News Time, the city's most widely read newspaper, should have.\
 Artemis pushed the crowd aside and headed straight for the dead body. The chief of police, depicting a semblance of a smile on his ferocious muzzle, warmly welcomed the intruder.
 
 \- Hey Tony! - The reporter shouted to the photographer accompanying her, completely ignoring the greeting of the Old Polar. - Get a couple of good shots before the body is taken away. The chief of police did not utter a word, although his black eyes flickered for a moment with a desperate desire to claw his fangs at the throat of this little bitch. His patience was explained simply - the Mayor of Bear City loved to appear on the front page of the most popular newspaper. His vanity made Miss Ginger one of the most powerful people in the city, with a particularly sharp-nosed Artemis interested in police activities.
@@ -115,15 +115,16 @@ Artemis pushed the crowd aside and headed straight for the dead body. The chief 
 
 \- Listen, Miss Ginger! - Old Polar began to lose his temper. - I do not collect gossip; my job is to investigate real crimes, and not to get lost in your conjectures!
 
-\- By the way, - Artemis inquired innocently, as if she had not heard his tirade, - did you find his daughter? They say she was kidnapped by the Pandas when Uncle's business went really bad...                    &#x20;
+\- By the way, - Artemis inquired innocently, as if she had not heard his tirade, - did you find his daughter? They say she was kidnapped by the Pandas when Uncle's business went really bad...
 
 The guys from the Grizzly gang carefully left the crowd and ran to their car, parked right on the sidewalk. The received information should be delivered to the addressee as quickly as possible.
 
-## `Chapter III`
-****
+### `Chapter III`
 
-&#x20;   Godfather Grizzly's office was on the third floor of the old mansion. His looked out the window, behind which was the largest park in the city, carefully preserving the true look of autumn. Fatso and Long froze at the boss's huge desk, not daring to break the silence with a single sound.\
-\- How are things with your brother? \
+***
+
+Godfather Grizzly's office was on the third floor of the old mansion. His looked out the window, behind which was the largest park in the city, carefully preserving the true look of autumn. Fatso and Long froze at the boss's huge desk, not daring to break the silence with a single sound.\
+\- How are things with your brother?\
 Godfather Grizzly's voice suited his appearance perfectly - a low pleasant bass of an adult, but not yet an old bear, who prefers expensive suits and good books. Fatso winced and glanced at his partner before answering.
 
 \- No news yet, boss.
@@ -138,22 +139,22 @@ Godfather Grizzly's voice suited his appearance perfectly - a low pleasant bass 
 
 \- No, - answered Godfather Grizzly, - we stopped talking a couple of years ago. Uncle asked me not to interfere in his affairs, I did not insist. He is older and more experienced than me; I thought that he would figure everything out on his own. Perhaps he blamed me for his troubles. Maybe he thought I was trying to hurt him, or maybe my reputation is getting in the way of his projects. What did Miss Ginger say? That he was unlucky with his relatives?
 
-\- Yes, boss, - the bandits answered in unison. \
+\- Yes, boss, - the bandits answered in unison.\
 Godfather Grizzly chuckled.
 
 \- Maybe she's right. Miss Ginger has a surprisingly sharp not only tongue, but also a mind. So you think she knows more than she told the police?\
-&#x20;Long cleared his throat.
+Long cleared his throat.
 
 \- Yes, boss. When the Old Bear finally stood up and rested his forehead, Artemis fell silent and drove away. I think she knows a lot more.
 
-\- I understand, - the mafia boss came up to the table and put his heavy paws on the tabletop. The table creaked piteously. - Talk to her. But do not forget that she is one of the most respected bears in Bear City, and the Mayor who adores her will make life much more difficult for us if she thinks that she was treated inappropriately. Offer her money, I will order Einstein, offer a lot of money, but get all the information you need! And then… \
+\- I understand, - the mafia boss came up to the table and put his heavy paws on the tabletop. The table creaked piteously. - Talk to her. But do not forget that she is one of the most respected bears in Bear City, and the Mayor who adores her will make life much more difficult for us if she thinks that she was treated inappropriately. Offer her money, I will order Einstein, offer a lot of money, but get all the information you need! And then…\
 Godfather Grizzly sank heavily into his chair. Fatso and Long were waiting - they already knew what the essence of their task would be, and were quite ready for this.
 
-\- And then find Ellie. Whatever my brother thought of me, I loved him and my niece. She's a good girl and doesn't deserve what happened to her. Get her home as soon as possible. You can go. \
-&#x20;   Luxurious «Rolls-Royce» has been waiting for forty minutes at the night jazz club «Honey Palace», but its passengers were in no hurry to get out of the car. Apparently, the nightly temptations that this fashionable establishment offered were not their priority at the moment. Fatso and Long were waiting. They were both dressed in very nice black suits, and there was a small bag of money in the back seat. The bandits decided that for the upcoming meeting they needed some gloss, and did their best. The icing on the cake was a luxurious car, which they begged from the accountant of the Einstein gang, assuring him that without a cool car, their operation is simply doomed to failure. Reluctantly, his arthritic joints creaking, Einstein donated his personal car to the cause, having previously told in detail what he would do with them if even one scratch appeared on the «Rolls-Royce».
+\- And then find Ellie. Whatever my brother thought of me, I loved him and my niece. She's a good girl and doesn't deserve what happened to her. Get her home as soon as possible. You can go.\
+Luxurious «Rolls-Royce» has been waiting for forty minutes at the night jazz club «Honey Palace», but its passengers were in no hurry to get out of the car. Apparently, the nightly temptations that this fashionable establishment offered were not their priority at the moment. Fatso and Long were waiting. They were both dressed in very nice black suits, and there was a small bag of money in the back seat. The bandits decided that for the upcoming meeting they needed some gloss, and did their best. The icing on the cake was a luxurious car, which they begged from the accountant of the Einstein gang, assuring him that without a cool car, their operation is simply doomed to failure. Reluctantly, his arthritic joints creaking, Einstein donated his personal car to the cause, having previously told in detail what he would do with them if even one scratch appeared on the «Rolls-Royce».
 
-&#x20;   The gangsters philosophized out of boredom and watched the glittering crowd flock to the beautiful four-story building that had once served the city as the «Museum of the History of Kegs and Cans». Here you could get everything that is allowed and prohibited, especially without worrying about raids and searches, since the initiators of these events themselves visited here at least once a week. If raids did occur, then all interested parties were warned about this at least a month in advance. Here they bet on running hedgehogs and fighting bees, played roulette and the black market, drank wild honey cocktails and ate real honeycombs, listened to jazz and fashionable poets who had fallen into hard drinking and decadence. There was no prohibition here, but there were clear rules that even gang leaders, movie stars and relatives of the Mayor were obliged to follow. Casino, nightclub, brothel, bookmaker, meeting place, restaurant, honey and opium den – «Honey Palace» was truly a new Babylon for a small, but by no means the best part of the population of Bear City. \
-&#x20;   Fatso lit a cigarette, exhaling a puff of thick smoke.
+The gangsters philosophized out of boredom and watched the glittering crowd flock to the beautiful four-story building that had once served the city as the «Museum of the History of Kegs and Cans». Here you could get everything that is allowed and prohibited, especially without worrying about raids and searches, since the initiators of these events themselves visited here at least once a week. If raids did occur, then all interested parties were warned about this at least a month in advance. Here they bet on running hedgehogs and fighting bees, played roulette and the black market, drank wild honey cocktails and ate real honeycombs, listened to jazz and fashionable poets who had fallen into hard drinking and decadence. There was no prohibition here, but there were clear rules that even gang leaders, movie stars and relatives of the Mayor were obliged to follow. Casino, nightclub, brothel, bookmaker, meeting place, restaurant, honey and opium den – «Honey Palace» was truly a new Babylon for a small, but by no means the best part of the population of Bear City.\
+Fatso lit a cigarette, exhaling a puff of thick smoke.
 
 \- Not a bad Cave, - he said, - I used to be here quite often. But then I got bored. Everyone pretends to have fun with might and main, and in the eyes - emptiness.
 
@@ -161,12 +162,13 @@ Godfather Grizzly sank heavily into his chair. Fatso and Long were waiting - the
 
 \- She arrived!
 
-## `Chapter IV`
-****
+### `Chapter IV`
 
-&#x20;   Artemis Ginger parked her Fiat behind cool car, slammed the door, and headed for the Honey Palace entrance. Her expensive open evening gown contrasted sharply with her more than modest means of transportation. Miss Ginger was moving so fast that the bandits did not even have time to get out of the car.
+***
 
-\- Miss Ginger! Fatso called out to her a little louder than he planned, because he seriously feared that he would not have time to intercept her before entering the nightclub, - Can I have you for one minute? \
+Artemis Ginger parked her Fiat behind cool car, slammed the door, and headed for the Honey Palace entrance. Her expensive open evening gown contrasted sharply with her more than modest means of transportation. Miss Ginger was moving so fast that the bandits did not even have time to get out of the car.
+
+\- Miss Ginger! Fatso called out to her a little louder than he planned, because he seriously feared that he would not have time to intercept her before entering the nightclub, - Can I have you for one minute?\
 Artemis stopped. Then she walked over to the «Rolls-Royce» and leaned against the window, propping her knee on the passenger door. Now Fatso would not be able to get out of the car without interference if it occurred to him.
 
 \- Well, well, - the reporter drawled, - guys from the Grizzly gang. What do you need boys?
@@ -187,7 +189,7 @@ Artemis stopped. Then she walked over to the «Rolls-Royce» and leaned against 
 
 \- And how much is the Grizzly Godfather willing to pay for information? - Artemis chuckled. - I heard he's not very generous.
 
-\- One hundred thousand.&#x20;
+\- One hundred thousand.
 
 Artemis whistled.
 
@@ -195,7 +197,7 @@ Artemis whistled.
 
 \- Three hundred thousand.
 
-&#x20;Artemis raised her hand.
+Artemis raised her hand.
 
 \- Hold the moose, fire tower! Well, I'll tell you, and what's next? You are thugs; missions to save girls are not your style.
 
@@ -203,17 +205,17 @@ Artemis whistled.
 
 Miss Ginger fell silent - the colossal amount really shocked her. The gangsters also did not say another word, realizing that now is the time to give the girl a little to recover and think.
 
-&#x20;   Artemis did not remain silent for long; it was not in her rules. True, when she spoke, little was left of her playfully mocking tone.
+Artemis did not remain silent for long; it was not in her rules. True, when she spoke, little was left of her playfully mocking tone.
 
 \- Well, that's big money. I see the Godfather Grizzly really wants to bring the little one home. But I wouldn’t drive a lousy car and live on the outskirts in a small apartment with my mother if I took money for information and wrote custom articles.
 
 \- We know that, - said Fatso cautiously, - but this is not about professional ethics. The fate and even the life of a young bear are at stake. And we have very little time to save her, if she is really in the clutches of the Pandas.
 
-&#x20;Miss Ginger leaned forward and stared at the gangsters for a few seconds. In this short period of time, Fatso and Long felt naked, helpless, enchanted, interrogated, called to account, sentenced to death, x-rayed and repentant in confession.
+Miss Ginger leaned forward and stared at the gangsters for a few seconds. In this short period of time, Fatso and Long felt naked, helpless, enchanted, interrogated, called to account, sentenced to death, x-rayed and repentant in confession.
 
 \- Okay, - Artemis coped with emotions, made a conclusion and made a decision, - I accept your offer - but on my own terms. I don't need money. And Ellie's fate worries me as much as you do. But I also have my own selfish motive - I have long dreamed of conducting my own journalistic investigation. And now I have a chance - especially since our valiant police do not want to listen to anything. I'm not a fool, so I perfectly understand that I can't do it alone, so I made an appointment at the «Honey Palace» with the best private detective in the city. He is waiting for me at a table by the window. But, since such a thing, I change his worthy candidacy for your dubious faces. I suppose this is logical, given your interest, as well as the degree of danger of the enterprise. In general, we are going to save the girl together!
 
-&#x20;   During her speech, Fatso and Long's faces gradually stretched out in surprise. When Miss Ginger had finished, the gangsters spoke quickly, loudly and constantly interrupting each other.
+During her speech, Fatso and Long's faces gradually stretched out in surprise. When Miss Ginger had finished, the gangsters spoke quickly, loudly and constantly interrupting each other.
 
 \- It's impossible!
 
@@ -251,14 +253,15 @@ Artemis waited patiently for them to breathe, shrugged her shoulders, and opened
 
 \- Nope, - Artemis said nonchalantly, - he’ll find something to do. As far as I know, he is a regular customer of «Honey Palace».
 
-## `Chapter V`
-****
+### `Chapter V`
 
-&#x20;   The «Rolls-Royce», snatching space from the dark streets with the bright light of its headlights, was speeding rapidly towards the Southeast. Two bears and a female bear inside the car physically felt the tension growing as they approached the goal. Of course, there were no reasons for relaxation. Especially after Artemis told her partners that all her sources independently indicated one place of detention for Ellie Grizzly - Dirty Louie's establishment. Louis-Theodore Fossett, a large koala with matted fur of indeterminate color, fully corresponded to his nickname - both from a physical and moral point of view. Louis's place had a bad reputation, but still not as bad as its owner. Dirty Louis was tied up on the fact that he carried out small, but dirty errands for the southern and southeastern groups of Pandas. He was not shy about cooperating even with such scumbags as Marmalade. Ellie was in the clutches of a notorious scumbag, but that wasn't the worst thing.
+***
 
-&#x20;    Long and Fatso told Artemis that Pandas had a practice of pumping their victims with huge doses of molasses so that the client would behave calmly. Miss Ginger and both Bears were well aware that after 48 hours of active consumption, this stuff caused irreversible changes in the bears' brains, turning them into dependent living scarecrows, unable to fully think and exist. Yes, our company had a reason to hurry up!&#x20;
+The «Rolls-Royce», snatching space from the dark streets with the bright light of its headlights, was speeding rapidly towards the Southeast. Two bears and a female bear inside the car physically felt the tension growing as they approached the goal. Of course, there were no reasons for relaxation. Especially after Artemis told her partners that all her sources independently indicated one place of detention for Ellie Grizzly - Dirty Louie's establishment. Louis-Theodore Fossett, a large koala with matted fur of indeterminate color, fully corresponded to his nickname - both from a physical and moral point of view. Louis's place had a bad reputation, but still not as bad as its owner. Dirty Louis was tied up on the fact that he carried out small, but dirty errands for the southern and southeastern groups of Pandas. He was not shy about cooperating even with such scumbags as Marmalade. Ellie was in the clutches of a notorious scumbag, but that wasn't the worst thing.
 
-&#x20;   When Dirty Louie's place was only a couple of kilometers away, the Fatso began to instruct Artemis. In his opinion, Miss Ginger's entire role in their mission was to lie on the floor of the car and shake with fear.
+Long and Fatso told Artemis that Pandas had a practice of pumping their victims with huge doses of molasses so that the client would behave calmly. Miss Ginger and both Bears were well aware that after 48 hours of active consumption, this stuff caused irreversible changes in the bears' brains, turning them into dependent living scarecrows, unable to fully think and exist. Yes, our company had a reason to hurry up!
+
+When Dirty Louie's place was only a couple of kilometers away, the Fatso began to instruct Artemis. In his opinion, Miss Ginger's entire role in their mission was to lie on the floor of the car and shake with fear.
 
 \- This is not for you to write articles, - he finished weightily, - so that you understand. Artemis snorted.
 
@@ -273,10 +276,10 @@ Artemis waited patiently for them to breathe, shrugged her shoulders, and opened
 \- Boss will skin us alive if anything happens to you, Miss Ginger.
 
 \- Oh, don't worry about that! - The reporter waved her hand. - He won't even have time to get to you. Mom will take care of you first. My mom! What an old lady! Why do you think I'm not married yet?\
-&#x20;   Louie's was exactly what a mid-range hangout with strippers and a lousy bar should look like. The bar offered not only the relatively safe, though forbidden, mead and heather, but also more serious things, and the striptease was just a warm-up to a more savory pastime at an affordable price. \
-&#x20;   Long knew this establishment like his own five claws, as at one time he often met here to resolve business issues with representatives of various gangs. Since Artemis flatly refused to stay in the car, the trio entered through the VIP entrance, and a friendly security guard, who perfectly remembered the grizzly bear named «Long», escorted them to one of the best table’s right next to the stage. Twilight reigned in the hall, a half-drunk musician strummed on the piano in the corner; criminals of all stripes were sitting at the tables mixed with ruined brokers. Two naked she-bears danced on the stage, and the waitress, who brought them mead in a long bottle, was not distinguished by an abundance of clothes. The companions did not linger in the hall - having taken a drink, they dived into a dark corridor leading to the lair of the owner of the establishment.&#x20;
+Louie's was exactly what a mid-range hangout with strippers and a lousy bar should look like. The bar offered not only the relatively safe, though forbidden, mead and heather, but also more serious things, and the striptease was just a warm-up to a more savory pastime at an affordable price.\
+Long knew this establishment like his own five claws, as at one time he often met here to resolve business issues with representatives of various gangs. Since Artemis flatly refused to stay in the car, the trio entered through the VIP entrance, and a friendly security guard, who perfectly remembered the grizzly bear named «Long», escorted them to one of the best table’s right next to the stage. Twilight reigned in the hall, a half-drunk musician strummed on the piano in the corner; criminals of all stripes were sitting at the tables mixed with ruined brokers. Two naked she-bears danced on the stage, and the waitress, who brought them mead in a long bottle, was not distinguished by an abundance of clothes. The companions did not linger in the hall - having taken a drink, they dived into a dark corridor leading to the lair of the owner of the establishment.
 
-&#x20;   At an inconspicuous door at the end of the corridor, a huge panda, Lee Larry, Dirty Louie's personal bodyguard, was on duty.
+At an inconspicuous door at the end of the corridor, a huge panda, Lee Larry, Dirty Louie's personal bodyguard, was on duty.
 
 \- Hi, Lee, - Long greeted, - how is you?
 
@@ -344,8 +347,9 @@ Dirty Louis groaned and covered his eyes with his paws, and Long whistled admiri
 
 \- I don't know about Long, - whispered Miss Ginger, looking into Dirty Louie's dilated pupils of pain, fear and rage as he wiped snot and blood on the sleeves of his dirty jacket. - But I will definitely take advantage of your invitation. So it's better for you, marsupial monkey, to collect your belongings and get out of the city - and as soon as possible!
 
-## `Chapter VI`
-****
+### `Chapter VI`
+
+***
 
 The night was moonlit. I wonder how many novels began with this boring line for everyone, how many chapters were spoiled by this terrible stamp? But what the hell do you order the author to do if the light rain stopped, the clouds dispersed, a warm breeze blew, and the night suddenly became warm and… moonlit like in summer?!
 
@@ -423,7 +427,7 @@ Long did not waste energy on compliments - he drove quickly and with concentrati
 
 \- I’d rather have something to drink, - said the Fat Man without opening his eyes, - I hope Einstein will let me drain a bottle of beer before he kills me for his wheelbarrow.
 
-# `Epilogue`
+## `Epilogue`
 
 The Mayor's office was as chic as its owner, a handsome black grizzly bear. A huge oak table, portraits of kings and presidents on the walls, numerous photographs of the Mayor himself and his relatives, flags, coats of arms, newspaper articles in glazed frames, heavy crystal ashtrays, golden pens and inkwells. The office was flooded with the autumn sun, penetrating here through two huge windows. The end of the most cloudy and depressing time of the year turned out to be extremely warm and sunny.
 
@@ -509,8 +513,6 @@ Artemis raised her paw and rather impolitely interrupted the owner of the office
 
 \- Artemis, your friends are real bears. Let them work incognito; I'm not against privacy at all. Don't like tights? Well, let them wear masks or hoods.
 
-
-
 \- Mr. Mayor, superheroes have supernatural powers!
 
 \- So are your friends, so are you, Miss Ginger. Courage, a lively mind, the ability to find a way out of the most difficult situations, self-sacrifice, honor - aren't these supernatural abilities in our time?! Think, Artemis, think! Who, if not you, will make this city better, cleaner, safer? And what prospects! Let your brilliant article be the first in the diamond chronicle of a team of real superheroes! You will become a celebrity far beyond the borders of our city, and then write a whole book...
@@ -533,4 +535,4 @@ Artemis did not give up:
 
 When the door closed behind the reporter, the Mayor smiled quite sincerely. Let small, but a victory! Taking out a notepad and colored pencils hidden there from the bottom drawer of the desk, the head of a huge city enthusiastically indulged in his favorite hobby - drawing. On the first sheet, he depicted the head of a dead bear with a protruding tongue and crosses instead of eyes. Above the terrible head, the artist painstakingly drew the inscription: «Meeting of the Suicide Club». Very pleased with himself, the Mayor turned the page and began to sketch the main team members and secondary characters...
 
-# `The End`
+## `The End`

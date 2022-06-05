@@ -29,6 +29,11 @@ The more bears and the higher their level, the more HoneyCash you get. Keep in m
 \
 Another way to earn $HASH is to buy it on sites such as Uniswap, Pancakeswap, etc.
 
+## `When I can trade HASH?`
+
+You can easily exchange ETH/HASH here \
+[https://info.uniswap.org/#/pools/0xe5bea4d033aa65daaf9c0642201a7510d2dc8df7](https://info.uniswap.org/#/pools/0xe5bea4d033aa65daaf9c0642201a7510d2dc8df7)
+
 ## `How much $HASH does my MafiaBear earn?`
 
 MafiaBears earn a base rate of 14.3 $HASH each day, with incremental $HASH bonuses based on their level. As we add additional features to MafiaBears, other tier-related benefits will be distributed throughout the ecosystem, so keep an eye out for more $HASH-earning opportunities in the coming months.
