@@ -12,4 +12,4 @@ This is a rarity rating based on how often one or another trait comes across amo
 
 ## `Where can I check how rare my MafiaBear is?`
 
-The rarity of all bears can be checked with our partners on the website after [reveal](https://docs.mafiabears.com/mafiabears/bearmafia#when-will-reveal-be).
+The rarity of all bears can be checked with our partners on the website after [reveal](https://docs.mafiabears.com/mafiabears/bearmafia#when-will-reveal-be) 06/20/22.
