@@ -13,6 +13,10 @@
 * [BearMafiaShares](mafiabears/bms.md)
 * [Leveling](mafiabears/leveling.md)
 
+## Mafia Bears Сelebrities
+
+* [Mafia Bears Сelebrities](mafia-bears-selebrities/mbc.md)
+
 ## Other
 
 * [Rarity Ranking](other/rarity-ranking.md)
