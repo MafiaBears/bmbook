@@ -21,7 +21,7 @@
 
 * [Rarity Ranking](other/rarity-ranking.md)
 * [Lore](other/lore.md)
-* [Liquidity Pools](other/liquidity-pools.md)
+* [Liquidity Pool](other/liquidity-pool.md)
 
 ## Contracts
 
